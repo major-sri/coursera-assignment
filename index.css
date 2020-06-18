@@ -1,0 +1,249 @@
+* {
+  box-sizing: border-box;
+
+
+}
+
+@media (min-width: 990px){
+
+  .hb{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .ha{
+    float: right;
+    border: solid 1px black;
+    background-color: rgb(4, 4, 255);
+    border-top: 0px;
+    border-right: 0px;
+    text-align: center;
+    margin-top: 0px;
+    width: 30%;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .hc{
+    float: right;
+    border: solid 1px black;
+    background-color: rgb(250, 4, 147);
+    border-top: 0px;
+    border-right: 0px;
+    text-align: center;
+    margin-top: 0px;
+    width: 30%;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .hd{
+    float: right;
+    border: solid 1px black;
+    background-color: rgb(250, 4, 238);
+  
+    border-top: 0px;
+    border-right: 0px;
+    text-align: center;
+    margin-top: 0px;
+    width: 30%;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .para{
+    clear: right;
+    padding: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+    font-style: italic;
+  }
+
+  .first{
+    border: solid black 1px;
+    width: 30%;
+    height: auto;
+    background-color: rgb(253, 138, 7);
+    float: right;
+    margin-left: 5px;
+    margin-right: 35px;
+  }
+  .second{
+    border: solid black 1px;
+    width: 30%;
+    height: auto;
+    background-color: rgb(253, 138, 7);
+    float: right;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .third{
+    border: solid black 1px;
+    width: 30%;
+    height: auto;
+    background-color: rgb(253, 138, 7);
+    float: right;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+
+}
+
+@media (max-width:991px) and (min-width:768px){
+
+  .hb{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .ha{
+    float: right;
+    border: solid 1px black;
+    background-color: rgb(4, 4, 255);
+    border-top: 0px;
+    border-right: 0px;
+    text-align: center;
+    margin-top: 0px;
+    width: 30%;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .hc{
+    float: right;
+    border: solid 1px black;
+    background-color: rgb(250, 4, 147);
+    border-top: 0px;
+    border-right: 0px;
+    text-align: center;
+    margin-top: 0px;
+    width: 30%;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .hd{
+    float: right;
+    border: solid 1px black;
+    background-color: rgb(250, 4, 238);
+  
+    border-top: 0px;
+    border-right: 0px;
+    text-align: center;
+    margin-top: 0px;
+    width: 30%;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .para{
+    clear: right;
+    padding: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+    font-style: italic;
+  }
+
+  .first{
+    border: solid black 1px;
+    width: 40%;
+    height: auto;
+    background-color: rgb(253, 138, 7);
+    float: right;
+    margin-left: 5px;
+    margin-right: 85px;
+    margin-bottom: 20px;
+  }
+  .second{
+    border: solid black 1px;
+    width: 40%;
+    height: auto;
+    background-color: rgb(253, 138, 7);
+    float: right;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .third{
+    margin-top: 30px;
+    border: solid black 1px;
+    width: 100%;
+    height: auto;
+    background-color: rgb(253, 138, 7);
+    clear: both;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+}
+@media (max-width:767px){
+  .hb{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .ha{
+    float: right;
+    border: solid 1px black;
+    background-color: rgb(4, 4, 255);
+    border-top: 0px;
+    border-right: 0px;
+    text-align: center;
+    margin-top: 0px;
+    width: 30%;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .hc{
+    float: right;
+    border: solid 1px black;
+    background-color: rgb(250, 4, 147);
+    border-top: 0px;
+    border-right: 0px;
+    text-align: center;
+    margin-top: 0px;
+    width: 30%;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .hd{
+    float: right;
+    border: solid 1px black;
+    background-color: rgb(250, 4, 238);
+  
+    border-top: 0px;
+    border-right: 0px;
+    text-align: center;
+    margin-top: 0px;
+    width: 30%;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .para{
+    clear: right;
+    padding: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+    font-style: italic;
+  }
+
+  .first{
+    border: solid black 1px;
+    width: 80%;
+    height: auto;
+    background-color: rgb(253, 138, 7);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+  }
+  .second{
+    border: solid black 1px;
+    width: 80%;
+    height: auto;
+    background-color: rgb(253, 138, 7);
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .third{
+    margin-top: 30px;
+    border: solid black 1px;
+    width: 80%;
+    height: auto;
+    background-color: rgb(253, 138, 7);
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+}
